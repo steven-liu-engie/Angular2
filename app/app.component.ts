@@ -29,7 +29,6 @@ import {ProductDetailComponent} from "./products/product-detail.component";
                ROUTER_PROVIDERS]
 
 })
-
 @RouteConfig([
     {
         path: "/welcome", name:"Welcome", component: WelcomeComponent, useAsDefault:true
